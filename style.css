@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ /* .home_left_img{
+    left: -35px;
+} */
+
+.home_left p{
+    letter-spacing: 6px;
+}
+.home_rightp{
+    letter-spacing: 6px;
+}
